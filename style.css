@@ -14,7 +14,7 @@ body{
 }
 
 .first{
-    transform: scale(1.2);
+    transform: scale(2);
 }
 
 .second{
@@ -23,4 +23,8 @@ body{
 
 .third{
     transform: translateX(100px) translateY(50px);
+}
+
+.fourth{
+    transform: skew(20deg, 30deg);
 }
